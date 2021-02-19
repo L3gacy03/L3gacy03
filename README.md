@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=L3gacy03&show_icons=true&count_private=true&hide_border=true&cache_seconds=1900"/>
+
 ### Hi there, I'm cqh! 👋
 
 **Languages:**  
@@ -13,4 +15,3 @@
 <code><img height="20" src="https://element.eleme.cn/favicon.ico"></code>
 <code><img height="20" src="https://xuliangzhan_admin.gitee.io/vxe-table/logo.png"></code>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=L3gacy03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
